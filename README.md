@@ -9,13 +9,13 @@ If you have questions about this week's lab, reading, or lecture, ANY TA for thi
 * Ben - bdr35@pitt.edu
 * Sean - spb60@pitt.edu
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. Office hours are:
+If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems.
 
+Go to the [Canvas Zoom page](https://canvas.pitt.edu/courses/17074/external_tools/322) to see and join office hours. Or, click one of these direct links:
 * Monday, 2-4 — [Click here to join](https://pitt.zoom.us/j/971-420-020)
 * Tuesday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
 * Thursday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
 
-Office hours will be held online using Zoom; click the links above to join the meeting.
 
 If none of these times work for you, please don't hesitate to reach out via email to set up another time.
 
