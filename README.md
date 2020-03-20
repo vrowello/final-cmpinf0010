@@ -11,12 +11,11 @@ If you have questions about this week's lab, reading, or lecture, ANY TA for thi
 
 If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. Office hours are:
 
-* Tuesday, 11-12
-* Tuesday, 4-5
-* Thursday, 10-12
-* Friday, 11-12
+* Monday, 2-4 — [Click here to join](https://pitt.zoom.us/j/971-420-020)
+* Tuesday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
+* Thursday, 4-5 — [Click here to join](https://pitt.zoom.us/j/592-906-507)
 
-Office hours will be held in the same place as last week, the Digital Scholarship Commons in the back of the ground floor of Hillman Library.
+Office hours will be held online using Zoom; click the links above to join the meeting.
 
 If none of these times work for you, please don't hesitate to reach out via email to set up another time.
 
@@ -24,17 +23,14 @@ If none of these times work for you, please don't hesitate to reach out via emai
 
 For the next few weeks, we will be working on the final project! On week one, I will explain the project and what you need to know in order to do it. Also, I will assign your groups! Let's do this.
 
+
 ## Getting Started™
 
-1. In JupyterLab, open a Launcher and select `Terminal`
-4. Type in `cd CMPINF0010`
-    - Or, **if you named your class folder something different**, replace `CMPINF0010` with whatever you named your folder
-5. Now, copy and paste this command into the terminal
-    ```
-    git clone https://github.com/pitt-sci-cmpinf0010/final-project.git
-    ```
-    - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
-6. You should see a new folder named `final-project` inside your class folder
+1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
+2. Go to Modules
+5. Click `Skills Lab Final Project` and click where is says `Click Here!`
+6. JupyterHub should open up to this week's materials!
+
 
 ### If JupyterLab _still_ doesn't work for you
 
@@ -44,3 +40,20 @@ _**Important**:_ Binder does **not** always save your work. If you need to stop 
 
 Click this button to get started with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/final-project/master?urlpath=lab)
+
+
+## Online collaboration toolkit
+
+Here is a list of tools that might help you and your team work together on this project:
+
+* [Zoom](https://pitt.zoom.us)
+    * To login to your Pitt Enterprise Zoom account:
+    * Go to [pitt.zoom.us](https://pitt.zoom.us)
+    * Click "Sign In"
+    * Choose "SSO" or "Single Sign On"
+    * Enter "Pitt"
+    * You should now be able to host meetings for your team
+* [Discord](https://discordapp.com)
+* [Google Docs](https://drive.google.com)
+* [Pulse Secure](https://www.technology.pitt.edu/software/pulse-client-installers)
+* [Virtual Lab](https://www.technology.pitt.edu/services/virtual-lab)
