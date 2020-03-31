@@ -21,7 +21,7 @@ If none of these times work for you, please don't hesitate to reach out via emai
 
 ## Finale 🏁
 
-For the next few weeks, we will be working on the final project! On week one, I will explain the project and what you need to know in order to do it. Also, I will assign your groups! Let's do this.
+For the next few weeks, we will be working on the final project! This week, I will explain the project and what you need to know in order to do it. Also, you'll find out your groups! Let's do this.
 
 
 ## Getting Started™
@@ -30,6 +30,11 @@ For the next few weeks, we will be working on the final project! On week one, I 
 2. Go to Modules
 5. Click `Skills Lab Final Project` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
+
+
+## If Pulse Secure doesn't work for you
+
+Use Pitt IT's [Virtual Lab](https://www.technology.pitt.edu/services/virtual-lab). I recommend using the Web Client as listed on that website. You can download and submit files to Canvas directly from the virtual lab instance. However, if you need to get files to your local machine, you should use **OneDrive**, since it it already set up on the machine. You can then download your files to your local machine from [OneDrive](https://onedrive.live.com/about/en-us/signin/).
 
 
 ### If JupyterLab _still_ doesn't work for you
@@ -53,7 +58,11 @@ Here is a list of tools that might help you and your team work together on this 
     * Choose "SSO" or "Single Sign On"
     * Enter "Pitt"
     * You should now be able to host meetings for your team
-* [Discord](https://discordapp.com)
+* [GitHub](https://github.com)
+    * Share your code among your team
 * [Google Docs](https://drive.google.com)
+    * Online communication and organization
+* [Discord](https://discordapp.com)
+    * Another online communication option
 * [Pulse Secure](https://www.technology.pitt.edu/software/pulse-client-installers)
 * [Virtual Lab](https://www.technology.pitt.edu/services/virtual-lab)
