@@ -13,7 +13,7 @@ For the next few weeks, we will be working on the final project! This week, I wi
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Final Project` and click where is says `Click Here!`
+5. Click `Skills Lab Final Project` and click `Link to the Final Project on JupyterHub`
 6. JupyterHub should open up to this week's materials!
 
 
